@@ -24,3 +24,4 @@ public with sharing class BeerController {
 }
 
 // Comment for KMC
+// NEW Comment
